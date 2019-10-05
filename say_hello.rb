@@ -6,7 +6,6 @@ end
 
 name = "Ruby Programmer"
 
-name = "Andy"
 say_hello(name)
 
 
