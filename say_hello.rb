@@ -1,9 +1,10 @@
-name = "Andy"
+
 
 def say_hello(name)
-  puts "Hello #{name}"
+  puts "Hello #{name}!"
 end
 
+name = "Andy"
 say_hello(name)
 
 def say_hello()
